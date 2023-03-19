@@ -1,0 +1,6 @@
+Surname - Potemkin
+Name - Dmitry
+Patronymic - Timurovich
+Age - 30
+Number of pets - 3
+Desired salary - 140000
