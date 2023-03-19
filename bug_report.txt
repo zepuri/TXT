@@ -1,1 +1,5 @@
-
+Heading: The transition icon in the telegram on the main page does not work
+Step_1: Open the website https://sportsteel.ru
+Step_2: Click icon telegram
+Expected_result: Telegram page is opened
+Actual_result: The page does not open
